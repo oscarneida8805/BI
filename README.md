@@ -1,0 +1,2 @@
+# BI
+to practice BI
